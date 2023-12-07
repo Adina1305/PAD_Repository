@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jucDOuNcLl+fVB3dKuQrX0DIEYPo8LgpIll4/WkpRCcW0XyLeNFZrpqzXIqzt/yGwBcDsVGBNhECVA+Durj4RA==",
+  "success": true,
+  "projectFilePath": "D:\\PAD\\Lab_2\\Lab_2\\SmartProxyPAD\\Common\\Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\mongodb.bson\\2.22.0\\mongodb.bson.2.22.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
